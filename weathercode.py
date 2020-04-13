@@ -7,7 +7,8 @@
 # 2. The city name doesnt need to be very specific. But you can add more infos like state or country name. Its like a google search. 
 
 # This code returns the latest weather data so the the result might change time over time. 
-# all times are according to the timezone of servers. 
+# all times are according to the timezone of servers.
+#using OPENWEATHERMAP API
 
 
 "   *･ﾟﾟ･*:.｡..｡.:*ﾟ:*:✼✿　　"
