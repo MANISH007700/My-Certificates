@@ -1,12 +1,9 @@
 # Created by @data_quest_
 
 # Weather App (in python)
-
-
 # ⚠ Input Instructions:
 
 # 1. Just Enter Your City Name in the right format.
-
 # 2. The city name doesnt need to be very specific. But you can add more infos like state or country name. Its like a google search. 
 
 # This code returns the latest weather data so the the result might change time over time. 
@@ -102,3 +99,39 @@ center(f" {str(timesta(data['dt']))[:10]} | {str(timesta(data['dt']))[-10:]}")
 print()
 
 center("@data_quest_")
+
+       
+'''
+>>OUTPUT<<
+Bangalore
+        City Name         
+        Bengaluru         
+
+         Country          
+            IN            
+
+        Long | Lat        
+       77.6 | 12.98       
+
+   Weather Description    
+        Clear Sky         
+
+       Temperature        
+          30.0°C          
+     26.0°C | 31.6°C      
+
+        Feels like        
+          28.6°C          
+
+         Humidity         
+           32%            
+
+     Sunrise | Sunset     
+    07:37:55 |  20:01:49  
+
+           Local          
+        Date | Time       
+  2020-04-13 | 3 22:59:35 
+
+       @data_quest_  
+ '''
